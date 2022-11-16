@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
