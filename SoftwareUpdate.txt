@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
