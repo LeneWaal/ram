@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+ultralytics 8.0.228 add training time argument (#7054)
