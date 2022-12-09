@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
