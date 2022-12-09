@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+OpenVino 2024.0.0 (#8726)
