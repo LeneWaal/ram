@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
