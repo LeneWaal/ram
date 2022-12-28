@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
