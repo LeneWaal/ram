@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Improve Docs arguments tables (#8415)
