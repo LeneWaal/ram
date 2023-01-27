@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
