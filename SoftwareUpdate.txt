@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
