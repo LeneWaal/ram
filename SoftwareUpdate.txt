@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
