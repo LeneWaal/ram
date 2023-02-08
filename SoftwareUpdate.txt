@@ -1,1 +1,1 @@
-example Google Colab
+Fix PNNX ubuntu -> linux bug (#7050)
