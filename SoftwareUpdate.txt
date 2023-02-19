@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
