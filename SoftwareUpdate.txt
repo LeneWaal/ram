@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update mkdocs.yml (#7693)
