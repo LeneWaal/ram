@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+ultralytics 8.0.229 add model.embed() method (#7098)
