@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
