@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
