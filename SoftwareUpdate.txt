@@ -1,1 +1,1 @@
-add yolov10
+Cleanup Docs languages (#7865)
