@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
