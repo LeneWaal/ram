@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
