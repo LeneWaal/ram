@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add OBB benchmarks to CI (#7777)
