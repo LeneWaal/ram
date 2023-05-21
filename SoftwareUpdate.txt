@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
