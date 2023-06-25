@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add yolo_bbox2segment docs reference (#7751)
