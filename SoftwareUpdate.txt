@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
