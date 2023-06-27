@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update Discord and Contributing Guide URLs (#9270)
