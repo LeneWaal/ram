@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
