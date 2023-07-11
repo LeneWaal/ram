@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Optimize function calls to method calls (#8507)
