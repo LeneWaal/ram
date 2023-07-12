@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Update Docs Home and Neural Magic pages (#7243)
