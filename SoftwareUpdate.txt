@@ -1,1 +1,1 @@
-fix non-coco val
+Fix OpenVINO links (#7930)
