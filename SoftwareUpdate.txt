@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
