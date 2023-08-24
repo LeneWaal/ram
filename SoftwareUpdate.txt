@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Fix Multi-GPU resume bug (#7328)
