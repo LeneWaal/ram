@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Compare plt.get_backend() in lowercase (#8409)
