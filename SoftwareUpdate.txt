@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+YOLOv8 INT8 TFLite Inference Example (#7317)
