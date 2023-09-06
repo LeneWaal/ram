@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Fix docker.yaml double-quote version bug (#7452)
