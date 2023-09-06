@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
