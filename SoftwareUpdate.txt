@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix Yolo 8.0.206 scale bug (#7821)
