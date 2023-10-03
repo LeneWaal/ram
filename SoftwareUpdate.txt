@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add visuals in guides/distance-calculation.md (#7876)
