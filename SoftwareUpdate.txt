@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
