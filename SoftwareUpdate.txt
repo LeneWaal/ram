@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Merge pull request #22 from SkalskiP/patch-1
