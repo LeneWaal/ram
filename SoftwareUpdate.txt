@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Link checks SSL insecure robustness (#7853)
