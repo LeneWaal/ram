@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Move Explorer tests to scheduled CI (#8305)
