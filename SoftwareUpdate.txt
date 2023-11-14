@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update Twitter icon in Docs (#7711)
