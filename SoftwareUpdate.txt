@@ -1,1 +1,1 @@
-fix print val map
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
