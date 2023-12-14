@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
