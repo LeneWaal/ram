@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Faster batch same_shapes (#8851)
