@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
