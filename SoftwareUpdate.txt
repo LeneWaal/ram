@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Docs partial mdformat improvements (#7378)
