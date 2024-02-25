@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fixed RTDETR GFLOPs bug (#7309)
