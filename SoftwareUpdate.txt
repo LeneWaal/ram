@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Fix OpenVINO missing batch-size bug (#9264)
