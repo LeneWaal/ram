@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Rename model_id to model.id (#8447)
