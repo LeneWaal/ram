@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Fix OpenVINO links (#7930)
