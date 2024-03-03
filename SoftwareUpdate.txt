@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Fix Yolo 8.0.206 scale bug (#7821)
