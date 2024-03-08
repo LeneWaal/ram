@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
