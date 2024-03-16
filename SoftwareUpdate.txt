@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Move Explorer tests to scheduled CI (#8305)
