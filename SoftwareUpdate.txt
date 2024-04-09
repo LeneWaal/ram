@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
