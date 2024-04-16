@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Hold failed upload metrics and upload with next upload metrics (#8513)
