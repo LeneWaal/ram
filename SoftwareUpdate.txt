@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fixed RTDETR GFLOPs bug (#7309)
