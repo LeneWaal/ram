@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
