@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
