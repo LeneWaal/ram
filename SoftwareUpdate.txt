@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Avoid creating -hub dir without processing images (#8334)
