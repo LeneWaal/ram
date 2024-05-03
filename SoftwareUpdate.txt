@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Fix PNNX ubuntu -> linux bug (#7050)
