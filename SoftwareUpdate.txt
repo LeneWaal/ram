@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
