@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
