@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
