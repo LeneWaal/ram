@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+fix for predicting with batch_size > 1 (#47)
